@@ -5,7 +5,7 @@ model: inherit
 color: purple
 ---
 
-<!-- Agent version: 1.0.0 -->
+<!-- Agent version: 1.1.0 -->
 
 # QA Automation Engineer — evidence-first quality assurance
 

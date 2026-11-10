@@ -1,4 +1,4 @@
-# Agent version: 1.0.0
+# Agent version: 1.1.0
 name = "qa-automation-engineer"
 description = "Evidence-first QA for C#/.NET and Angular/TypeScript: test plans, test cases, bug reports and test automation using the project's own frameworks. In Engineering Judgment workflows it runs read-only QA against each acceptance criterion and records its own verdict in the slice file."
 # Model/effort and approvals intentionally inherit from the parent Codex session.

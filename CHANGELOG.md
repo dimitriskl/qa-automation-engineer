@@ -2,6 +2,10 @@
 
 All notable changes to this agent are tracked here.
 
+## [1.1.0] - 2026-11-10
+
+- Added a Clear communication rule to the Claude Code and Codex definitions. User-facing explanations use clear, simple English, or the language the user requests, with short sentences and familiar words. Terms and acronyms are explained on first use. The explanation says what a change does and why in terms a non-programmer can follow, and still keeps exact file paths, class and method names, evidence, risks and technical detail. Do not invent code locations or claim a check ran when it did not.
+
 ## [1.0.0] - 2026-11-04
 
 - Initial public, platform-specific Claude Code + Codex distribution.
