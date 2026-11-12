@@ -82,13 +82,13 @@ These are the exact locations read by Claude Code (`.claude/agents` or `~/.claud
 **Claude Code:**
 
 ```text
-Use the qa-automation-engineer agent to check the new invoice approval feature against its acceptance criteria. Run the existing build and tests, report PASS/FAIL per criterion with evidence, and list criteria that have no automated test.
+Use the qa-automation-engineer agent to check <project_name> against its acceptance criteria. Run the existing build and tests, report PASS/FAIL per criterion with evidence, and list criteria that have no automated test.
 ```
 
 **Codex CLI / IDE:**
 
 ```text
-Delegate this task to the qa-automation-engineer custom agent: Use the qa-automation-engineer agent to check the new invoice approval feature against its acceptance criteria. Run the existing build and tests, report PASS/FAIL per criterion with evidence, and list criteria that have no automated test.
+Delegate this task to the qa-automation-engineer custom agent: Use the qa-automation-engineer agent to check <project_name> against its acceptance criteria. Run the existing build and tests, report PASS/FAIL per criterion with evidence, and list criteria that have no automated test.
 ```
 
 Codex normally discovers custom agents when they are configured in the recognized agent directories. To use subagents, request delegation explicitly in your Codex conversation. If your client or workspace restricts custom agents, check its available configuration.
