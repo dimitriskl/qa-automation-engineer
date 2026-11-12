@@ -2,6 +2,8 @@
 
 **Version:** `1.1.0` · **License:** [MIT](LICENSE) · **Maintainer:** [dimitriskl](https://github.com/dimitriskl)
 
+> Part of [MyDevFactory](https://github.com/dimitriskl/mydevfactory). Its one-command installer sets up this agent, the other seven and the workflow skill together. You can also install this agent on its own (below).
+
 An evidence-first QA automation agent for .NET and Angular: test strategy, test cases, bug reports, automation, and read-only acceptance checks for MyDevFactory.
 
 ## What problem does it solve?
